@@ -1,9 +1,9 @@
-# javi-portfolio /
+# javi-portfolio 
+ 
+Portfolio Personal en GitHub Pages  
 
-Portfolio Personal en GitHub Pages /
+Primera versión de mi portfolio profesional en Github 
+ 
+Meter enlace  
 
-Primera versión de mi portfolio profesional en Github /
-
-Meter enlace /
-
-Tecnologias utilizadas: HTML y CSS. 
+Tecnologias utilizadas: HTML y CSS.  
